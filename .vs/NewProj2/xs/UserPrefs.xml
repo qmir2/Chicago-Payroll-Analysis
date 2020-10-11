@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3C0C8627-AEE0-40F6-884F-2542A4EACB35}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NewProj2/Program.fs">
+    <Files>
+      <File FileName="NewProj2/Program.fs" Line="24" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NewProj2" expanded="True">
+            <Node name="NewProj2" expanded="True">
+              <Node name="Program.fs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NewProj2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
